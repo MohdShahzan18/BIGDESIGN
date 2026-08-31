@@ -11,6 +11,7 @@ import IntegrationAI from "./components/IntegrationAI";
 import FAQ from "./components/FAQ";
 import FinalCTA from "./components/FinalCTA";
 import Footer from "./components/Footer";
+import "./App.css";
 
 function App() {
   const [darkMode, setDarkMode] = useState(true);
